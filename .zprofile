@@ -10,8 +10,3 @@ then
     PATH="$HOME/.local/bin:$PATH"
 fi
 export PATH
-
-
-# Added by Toolbox App
-export PATH="$PATH:/home/riley/.local/share/JetBrains/Toolbox/scripts"
-
