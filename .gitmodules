@@ -1,0 +1,12 @@
+[submodule ".tmux/plugins/tpm"]
+	path = .tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule ".tmux/plugins/tmux-sensible"]
+	path = .tmux/plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible
+[submodule ".tmux/plugins/tmux-powerline"]
+	path = .tmux/plugins/tmux-powerline
+	url = https://github.com/erikw/tmux-powerline
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = https://github.com/ro-owen/nvim
